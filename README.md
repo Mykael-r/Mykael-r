@@ -41,6 +41,8 @@
   />
 </p>
 
+<br clear="both" />
+
 ---
 
 ### 📲 Vamos nos conectar?
