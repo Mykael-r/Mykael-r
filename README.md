@@ -27,3 +27,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/r_mik4el)
 
 ---
+
+![snake gif](https://github.com/Mykael-r/Mykael-r/blob/output/github-contribution-grid-snake.svg)
