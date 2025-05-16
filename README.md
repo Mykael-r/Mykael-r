@@ -1,4 +1,4 @@
-### Olá! Eu sou o Mykaell Rodrigues 👋
+### Olá! Eu sou o Mykael Rodrigues 👋
 
 🎓 Estudante de Engenharia de Software (5º período)  
 💻 Desenvolvedor em constante evolução, apaixonado por tecnologia, programação e segurança da informação  
