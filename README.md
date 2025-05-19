@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Mykael Rodrigues 👋
 
 🎓 Estudante de Engenharia de Software (5º período)  
-💻 Desenvolvedor em constante evolução, apaixonado por tecnologia, programação e segurança da informação  
+💻 Desenvolvedor em constante evolução, apaixonado por IA's, programação e segurança da informação  
 🌐 Praticando Desenvolvimento Web com foco em usabilidade e inteligência artificial
 
 ---
